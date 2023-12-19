@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Arial", sans-serif;
+}
+
+:root {
+  --main-color: #0b0b0b;
+}
+
+body {
+  background: var(--main-color);
+  color: #fff;
+  overflow-x: hidden;
+}
